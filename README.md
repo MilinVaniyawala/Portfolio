@@ -19,7 +19,7 @@ My portfolio website serves as a digital resume, providing visitors with insight
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** PHP (for handling form submissions and API endpoints)
+- **Backend:** PHP (for handling form submissions and API endpoints) [GitHub Link](https://github.com/MilinVaniyawala/portfolio_backend)
 - **Database:** MySQL (for storing user and project data)
 
 ## Getting Started
