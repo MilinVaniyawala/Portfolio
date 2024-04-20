@@ -39,4 +39,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Author
 
-[Milin Vaniyawala](https://github.com/MilinVaniyawala) - [Your Website] - [milinvaniyawala@gmail.com]
+[Milin Vaniyawala](https://github.com/MilinVaniyawala) - [Portfolio](https://milin-eight.vercel.app/) - [milinvaniyawala@gmail.com]
