@@ -1,0 +1,46 @@
+<svg xmlns:mydata="http://www.w3.org/2000/svg"
+     mydata:contrastcolor="ffffff"
+     mydata:template="Default"
+     mydata:presentation="2.5"
+     mydata:layouttype="undefined"
+     mydata:specialfontid="undefined"
+     mydata:id1="342"
+     mydata:id2="443"
+     mydata:companyname="MV."
+     mydata:companytagline=""
+     version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 550 470">
+    <g fill="#7566a0"
+       fill-rule="none"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray=""
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode: normal">
+        <g data-paper-data="{&quot;isGlobalGroup&quot;:true,&quot;bounds&quot;:{&quot;x&quot;:177.30288098463978,&quot;y&quot;:114.99999999999997,&quot;width&quot;:195.39423803072037,&quot;height&quot;:240.00000000000003}}">
+            <g data-paper-data="{&quot;isPrimaryText&quot;:true}"
+               fill-rule="nonzero">
+                <path d="M219.95719,287.94346c0,0 0.79357,17.5577 -0.79357,30.55239c-1.58714,12.99468 -10.71318,16.36735 -10.71318,16.36735c2.08312,10.51478 10.21719,20.1368 10.21719,20.1368c5.45578,-0.59518 20.53359,-6.44774 23.01349,-20.1368c2.4799,-13.68906 0.39678,-27.17972 0.39678,-27.17972c3.67025,9.32443 11.01076,18.45047 11.01076,18.45047c4.66222,-4.36463 14.78021,-17.35931 14.78021,-17.35931l-1.88473,31.94113c14.38343,1.58714 25.59258,0 25.59258,0v-73.1075c-8.43167,-0.99196 -23.41027,0.0992 -23.41027,0.0992c-4.76141,8.43167 -12.5979,27.7749 -12.5979,27.7749c-4.46382,-13.09388 -12.4987,-30.354 -12.4987,-30.354c-31.14756,-4.56302 -65.76699,3.57106 -65.76699,34.52023c0,30.94917 31.64354,27.27892 31.64354,27.27892c3.27347,-11.20916 2.97588,-20.53359 2.97588,-20.53359c0,0 -8.03488,0.19839 -8.03488,-8.63006c0,-11.01076 16.06976,-9.82041 16.06976,-9.82041z"
+                      data-paper-data="{&quot;glyphName&quot;:&quot;special;M.2&quot;,&quot;glyphIndex&quot;:0,&quot;firstGlyphOfWord&quot;:true,&quot;word&quot;:1}" />
+                <path d="M330.75919,283.08285c-3.57106,16.36735 -3.76945,25.39419 -4.9598,36.70254h-2.4799c-0.89276,-11.10996 -2.5791,-28.46927 -2.97588,-37.00013c-9.42363,-0.19839 -18.45047,0.79357 -23.11268,1.09116c1.88473,20.43439 6.24935,38.48807 10.118,56.93854c7.83649,1.28955 21.82313,1.38874 31.84194,1.09116c4.86061,-18.45047 8.43167,-38.19049 11.20916,-58.72407c-4.56302,-0.39678 -13.29227,-0.79357 -19.64082,-0.0992z"
+                      data-paper-data="{&quot;glyphName&quot;:&quot;v&quot;,&quot;glyphIndex&quot;:1,&quot;word&quot;:1}" />
+                <path d="M358.3357,318.49585c-2.77749,0.59518 -5.85257,2.08312 -7.24131,3.86865c-3.07508,3.96784 -3.27347,13.98665 1.78553,17.5577c3.96784,2.77749 11.50674,3.57106 15.77217,0.29759c4.86061,-3.57106 5.75337,-15.37539 0.39678,-19.64082c-2.28151,-1.78553 -6.24935,-2.97588 -10.71318,-2.08312z"
+                      data-paper-data="{&quot;glyphName&quot;:&quot;.&quot;,&quot;glyphIndex&quot;:2,&quot;lastGlyphOfWord&quot;:true,&quot;word&quot;:1}" />
+            </g>
+            <g data-paper-data="{&quot;isIcon&quot;:&quot;true&quot;,&quot;iconType&quot;:&quot;icon&quot;,&quot;rawIconId&quot;:&quot;3459102&quot;,&quot;selectedEffects&quot;:{&quot;container&quot;:&quot;&quot;,&quot;transformation&quot;:&quot;&quot;,&quot;pattern&quot;:&quot;&quot;},&quot;isDetailed&quot;:false,&quot;iconStyle&quot;:&quot;standalone&quot;,&quot;bounds&quot;:{&quot;x&quot;:214.7582003641439,&quot;y&quot;:114.99999999999997,&quot;width&quot;:120.48359927171217,&quot;height&quot;:117.64731313693457},&quot;fillRule&quot;:&quot;evenodd&quot;,&quot;suitableAsStandaloneIcon&quot;:true}"
+               fill-rule="evenodd">
+                <path d="M293.4717,116.45989l41.35269,70.39162c0.6982,1.14252 0.50778,2.63413 -0.47605,3.58623l-41.35269,41.35269c-0.57125,0.57125 -1.33293,0.85689 -2.09461,0.85689c-0.76168,0 -1.52335,-0.28563 -2.09461,-0.85689l-13.80539,-13.80539l-13.83713,13.80539c-0.57125,0.57125 -1.33293,0.85689 -2.09461,0.85689c-0.76168,0 -1.52335,-0.28563 -2.09461,-0.85689l-41.35269,-41.35269c-0.9521,-0.9521 -1.14252,-2.41197 -0.44431,-3.58623l41.32096,-70.35988c0.53952,-0.88862 1.49162,-1.45988 2.57066,-1.45988c1.07904,0 2.03114,0.53952 2.57066,1.45988l13.36108,22.69161l13.32934,-22.72336c0.53952,-0.88862 1.49162,-1.45988 2.57066,-1.45988c1.07904,0 2.03114,0.53952 2.57066,1.45988zM221.46153,187.86707l37.63952,37.63952l11.67904,-11.71078l-23.35808,-23.35808c-0.9521,-0.9521 -1.14252,-2.41197 -0.44431,-3.58623l24.59581,-41.82874l-12.47246,-21.2zM279.19027,213.79582l11.71078,11.71078l37.63952,-37.60778l-37.63952,-64.04431l-12.47246,21.2l24.56407,41.79701c0.6982,1.14252 0.50778,2.63413 -0.44431,3.58623zM296.74057,187.86707l-21.73952,-36.97305l-21.73952,36.97305l21.73952,21.73952z"
+                      data-paper-data="{&quot;isPathIcon&quot;:true}" />
+            </g>
+        </g>
+    </g>
+</svg>
