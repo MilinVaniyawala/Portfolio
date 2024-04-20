@@ -1,0 +1,15 @@
+.section-title {
+  margin-bottom: 20px;
+}
+
+.education-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.education-item {
+  flex: 1 1 45%;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}

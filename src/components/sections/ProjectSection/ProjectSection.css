@@ -1,0 +1,27 @@
+.section-title {
+  margin-bottom: 20px;
+}
+
+.project-card {
+  transition: transform 0.3s;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+}
+
+.project-img {
+  object-position: top;
+  object-fit: cover;
+  height: 200px;
+}
+
+.card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.custom-gutter-x {
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
